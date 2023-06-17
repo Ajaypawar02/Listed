@@ -8,7 +8,7 @@ clone the url using
 git clone [url]
 ## Setup
 
-1. Create a Conda environment:create conda environment conda create --name myenv python=3.8 
+1. Create a Conda environment:conda create --name myenv python=3.8 
 
 
 2. Activate the Conda environment: conda activate myenv
