@@ -25,3 +25,8 @@ git clone [url]
     streamlit run scripts/streamlit.py
 
 6. Access the application in your browser at the provided URL.
+
+
+
+
+can access the notebook from this url : https://colab.research.google.com/drive/1APqUwvCrpGIk3YbeIbhcEH3OP-G0WBJm?usp=sharing
