@@ -30,3 +30,6 @@ git clone [url]
 
 
 can access the notebook from this url : https://colab.research.google.com/drive/1APqUwvCrpGIk3YbeIbhcEH3OP-G0WBJm?usp=sharing
+
+
+Video url :- https://drive.google.com/file/d/13Jvaa7VGQcstW1kEYV2Gq4whn1HDgO01/view?usp=sharing
